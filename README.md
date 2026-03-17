@@ -1,8 +1,7 @@
 # Bacteria Growth Model
 
-**Course:** CS166 – Minerva University  
+**Course:** Modeling and Analysis of Complex Systems  
 **Date:** February 2025  
-**Professor:** Prof. Tambasco
 
 ## Overview
 
